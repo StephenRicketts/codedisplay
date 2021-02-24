@@ -1,6 +1,6 @@
 {
   "name": "@codedisplay/local-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "files": [
     "dist"
@@ -23,7 +23,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "@codedisplay/local-client": "^1.0.0",
+    "@codedisplay/local-client": "^1.0.1",
     "commander": "^7.1.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
